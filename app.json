@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-asset",
+        {
+          "extensions": [
+            "json"
+          ]
+        }
+      ],
+      "expo-secure-store"
+    ]
+  }
+}
